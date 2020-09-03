@@ -33,9 +33,9 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #000000;
     font-family: 'Abril Fatface', cursive;
-    font-weight: bolder;
+
     font-size: 1.8em;
 }
 
@@ -95,6 +95,3 @@ body {
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
-
-
-/** END HOME PAGE **/
